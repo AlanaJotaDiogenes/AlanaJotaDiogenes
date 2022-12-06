@@ -10,7 +10,7 @@
   <img align="center" alt="Alana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Alana-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/467bf6d01f4169f553190a6372d6b023.gif">
+  <img align="right" alt="Alana-pic" height="120" style="border-radius:50px;" src="https://i.picasion.com/pic92/467bf6d01f4169f553190a6372d6b023.gif">
 </div>
 
 
@@ -20,6 +20,8 @@
   <a href = "mailto:alanajotacontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alana-jota-diógenes-figueiredo-43070b247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
+  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
   
   
