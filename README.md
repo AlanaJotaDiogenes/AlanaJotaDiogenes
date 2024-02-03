@@ -1,4 +1,4 @@
-## Olá eu sou Alana Jota, estudante de ciência da computação.
+## Olá eu sou Alana Jota, formada em ciência da computação.
 
 <div align="center">
   <a href="https://github.com/AlanaJotaDiogenes">
@@ -18,7 +18,7 @@
   
 <div>
   <a href = "mailto:alanajotacontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alana-jota-diógenes-figueiredo-43070b247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/alana-jota-diógenes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
   
